@@ -1,4 +1,4 @@
-﻿using ExerciciosPOO;
+﻿using ExercicioPoo;
 
 Console.WriteLine("=== EXERCÍCIO 1: APRESENTAÇÃO DE PESSOAS ===");
 Pessoa p1 = new Pessoa { Nome = "Ana Silva", Idade = 28, Cidade = "São Paulo" };
